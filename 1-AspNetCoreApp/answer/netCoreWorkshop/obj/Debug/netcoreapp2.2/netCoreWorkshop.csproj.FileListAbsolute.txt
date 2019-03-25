@@ -1,0 +1,11 @@
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/bin/Debug/netcoreapp2.2/netCoreWorkshop.deps.json
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/bin/Debug/netcoreapp2.2/netCoreWorkshop.runtimeconfig.json
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/bin/Debug/netcoreapp2.2/netCoreWorkshop.runtimeconfig.dev.json
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/bin/Debug/netcoreapp2.2/netCoreWorkshop.dll
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/bin/Debug/netcoreapp2.2/netCoreWorkshop.pdb
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/obj/Debug/netcoreapp2.2/netCoreWorkshop.csprojAssemblyReference.cache
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/obj/Debug/netcoreapp2.2/netCoreWorkshop.csproj.CoreCompileInputs.cache
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/obj/Debug/netcoreapp2.2/netCoreWorkshop.AssemblyInfoInputs.cache
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/obj/Debug/netcoreapp2.2/netCoreWorkshop.AssemblyInfo.cs
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/obj/Debug/netcoreapp2.2/netCoreWorkshop.dll
+/home/julian/Escritorio/curso_bmr/netCoreWorkshop/1-AspNetCoreApp/answer/netCoreWorkshop/obj/Debug/netcoreapp2.2/netCoreWorkshop.pdb
